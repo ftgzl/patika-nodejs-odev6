@@ -1,0 +1,24 @@
+{
+  "name": "patika-nodejs-odev6",
+  "version": "1.0.0",
+  "description": "koa.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ftgzl/patika-nodejs-odev6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ftgzl/patika-nodejs-odev6/issues"
+  },
+  "homepage": "https://github.com/ftgzl/patika-nodejs-odev6#readme",
+  "dependencies": {
+    "koa": "^2.13.3",
+    "koa-router": "^10.1.1"
+  }
+}
